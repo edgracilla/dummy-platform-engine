@@ -1,0 +1,23 @@
+{
+  "name": "dummy-platform-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgracilla/dummy-platform-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgracilla/dummy-platform-engine/issues"
+  },
+  "homepage": "https://github.com/edgracilla/dummy-platform-engine#readme",
+  "dependencies": {
+    "redis": "^2.7.1",
+    "reekoh": "^1.0.2"
+  }
+}
